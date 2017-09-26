@@ -5,3 +5,5 @@
 To send file - just forward message with photo to the bot after /start_session is called and before /complete_session is called. Telegram desktop allows 100 messages forward max - but it's better than one anyway)
 <br>
 Bot token is taken from environment variable: $Env:bulk_file_bot_token = "your_token here"
+
+з.ы. Vote for (original issue) https://github.com/telegramdesktop/tdesktop/issues/1382
