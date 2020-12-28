@@ -1,3 +1,5 @@
+# Bot to collect channel view statistics
+make api.json with required attributes, set your channel name in main - collect the stats
 # Telegram bot on Powershell which allows to download multiple photos at once
 - /start_session - creates temp session for the current chat to store file list
 - /complete_session - downloads all files stored in session into ./photo folder and resets session for the current chat
